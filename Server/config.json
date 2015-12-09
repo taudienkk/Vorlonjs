@@ -1,7 +1,7 @@
 {
     "baseURL": "",
-    "useSSLAzure":false,
-    "useSSL": false,
+    "useSSLAzure":true,
+    "useSSL": true,
     "SSLkey": "cert/server.key",
     "SSLcert": "cert/server.crt",
     "includeSocketIO": true,
